@@ -12,3 +12,7 @@ Features:
 
 Use PC HardwareSerialMonitor from:
 https://cdn.hackaday.io/files/19018813666112/HardwareSerialMonitor_v1.1.zip
+
+If you find it useful and want to buy me a coffee or a beer:
+
+https://www.paypal.me/cbm80amiga
